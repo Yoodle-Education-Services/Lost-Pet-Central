@@ -1,0 +1,9 @@
+GET http://localhost:3000/petcustomers
+
+###
+
+GET http://localhost:3000/petcustomers/12
+
+###
+
+POST  http://localhost:3000/petcustomers/

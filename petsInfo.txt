@@ -1,0 +1,23 @@
+{
+  "pets": [
+    {
+      "name" : "Purrsloud",
+      "species" : "Cat",
+      "birthYear" : 2016,
+      "photo" : ""
+    },
+    {
+      "name" : "",
+      "species" : "Dog",
+      "birthYear" : 2007,
+      "photo" : ""
+    },
+    {
+      "name" : "",
+      "species" : "Cat",
+      
+      "birthYear" : 2014,
+      "photo" : ""
+    }
+  ]
+}
